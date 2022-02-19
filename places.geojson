@@ -15,9 +15,6 @@
       }
     },
     {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "Place": "In Other Words Feminist Community Center"
@@ -30,9 +27,6 @@
         ]
       }
     },
-    {
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -47,9 +41,6 @@
       }
     },
     {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "Place": "Crystal Springs Rhododendron Garden"
@@ -63,9 +54,6 @@
       }
     },
     {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "Place": "Oaks Amusement Park"
@@ -78,9 +66,6 @@
         ]
       }
     },
-    {
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -123,7 +108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Oregon Zoo"
+        "Place": "Oregon Zoo"
       },
       "geometry": {
         "type": "Point",
