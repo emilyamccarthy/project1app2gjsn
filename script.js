@@ -1,4 +1,4 @@
-var map = L.map('mapid').setView([38.63868,-90.30317], 12);
+var map = L.map('mapid').setView([45.513073847248585, -122.6559512530686], 12);
 
   // load a tile layer
  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
