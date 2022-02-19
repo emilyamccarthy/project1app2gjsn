@@ -4,65 +4,145 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Sauce on the Side"
+        "Resturant": "Portland Art Museum"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.2565586566925,
-          38.627172226771336
+          -122.68256233430418,
+          45.524350727038914
+        ]
+      }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Resturant": "In Other Words Feminist Community Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66670711487463,
+          45.56517435432024
+        ]
+      }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Resturant": "East Rose Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64345408956348,
+          45.51018790538929
+        ]
+      }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Resturant": "Crystal Springs Rhododendron Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63521769967025,
+          45.48159161524599
+        ]
+      }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Resturant": "Oaks Amusement Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65816993703997,
+          45.47381572363657
+        ]
+      }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Resturant": "The Freaky Buttrue Pelicularium and Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69663775963218,
+          45.53740770254173
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Seoul Taco"
+        "Resturant": "Portland International Airport"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.24987995624542,
-          38.628341454584714
+          -122.59741829725552,
+          45.59838641891372
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "U-City Grill"
+        "Resturant": "Portland Japanese Garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.30848622322081,
-          38.65663598042729
+          -122.70453498902641,
+          45.52916120135958
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Charlie Gitto's"
+        "Resturant": "Oregon Zoo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.27347803115843,
-          38.61791831050015
+          -122.70235349737631,
+          45.51380286923782
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "801 Chophouse"
+        "Resturant": "Oregon Maritime Musesum"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.33247590065001,
-          38.64892763595949
+          -122.66926238412097,
+          45.52455272692468
         ]
       }
     }
