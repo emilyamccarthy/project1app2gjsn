@@ -7,7 +7,7 @@ var map = L.map('mapid').setView([45.513073847248585, -122.6559512530686], 12);
 }).addTo(map);
 
  // load GeoJSON from an external file
-  $.getJSON("",function(data){
+  $.getJSON("https://raw.githubusercontent.com/emilyamccarthy/project1app2gjsn/main/places.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(map);
   });
