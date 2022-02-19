@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Portland Art Museum"
+        "Place": "Portland Art Museum"
       },
       "geometry": {
         "type": "Point",
@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "In Other Words Feminist Community Center"
+        "Place": "In Other Words Feminist Community Center"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "East Rose Garden"
+        "Place": "East Rose Garden"
       },
       "geometry": {
         "type": "Point",
@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Crystal Springs Rhododendron Garden"
+        "Place": "Crystal Springs Rhododendron Garden"
       },
       "geometry": {
         "type": "Point",
@@ -68,7 +68,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Oaks Amusement Park"
+        "Place": "Oaks Amusement Park"
       },
       "geometry": {
         "type": "Point",
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "The Freaky Buttrue Pelicularium and Museum"
+        "Place": "The Freaky Buttrue Pelicularium and Museum"
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +97,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Portland International Airport"
+        "Place": "Portland International Airport"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +110,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Portland Japanese Garden"
+        "Place": "Portland Japanese Garden"
       },
       "geometry": {
         "type": "Point",
@@ -136,7 +136,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Resturant": "Oregon Maritime Musesum"
+        "Place": "Oregon Maritime Musesum"
       },
       "geometry": {
         "type": "Point",
