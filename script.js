@@ -11,3 +11,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(map);
   });
+
+ $.getJSON("https://opendata.arcgis.com/datasets/dbd6b5aa0ab14c859874eb41000e6a56_75.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+  });
